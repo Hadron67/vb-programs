@@ -1,0 +1,5 @@
+行 88: 控件 ProgressBar1 的类 MSComctlLib.ProgressBar 不是一个已加载的控件类。
+行 94: 属性名 _ExtentX 在 ProgressBar1 中是无效的。
+行 95: 属性名 _ExtentY 在 ProgressBar1 中是无效的。
+行 96: 属性名 _Version 在 ProgressBar1 中是无效的。
+行 98: 属性名 Scrolling 在 ProgressBar1 中是无效的。
